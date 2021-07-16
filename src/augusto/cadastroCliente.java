@@ -12,7 +12,7 @@ public class cadastroCliente extends javax.swing.JFrame {
     }
 
     @SuppressWarnings("unchecked")
-    
+    String teste;
     private void ApagarCampos(){
         txfCNPJ.setText("");
         txfRS.setText("");
